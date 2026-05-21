@@ -19,7 +19,7 @@ To become a skilled AI Engineer and build impactful tech products that solve rea
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/farhan-khan-b99737254/">
+  <a href="https://www.linkedin.com/in/farhan-khan-b99737254/" target = blank>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
